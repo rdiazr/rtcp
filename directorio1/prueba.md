@@ -1,9 +1,7 @@
-### Ejecución de comandos
+## Ejecución de comandos
 
 ```
 git status
-```
-```
 git add
 ```
 ```
